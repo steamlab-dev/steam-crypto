@@ -192,7 +192,7 @@ interface SessionKey {
 
 ## Used In
 
-This library is used by [@steamlab/steam-client](https://github.com/fcastrocs/steam-client) for Steam network protocol implementation.
+This library is used by [@steamlab/steam-client](https://www.npmjs.com/package/@steamlab/steam-client) for Steam client implementation.
 
 ## License
 
@@ -200,6 +200,5 @@ MIT
 
 ## Links
 
-- [GitHub Repository](https://github.com/fcastrocs/steam-client-crypto)
+- [GitHub Repository](https://github.com/steamlab-dev/steam-crypto)
 - [npm Package](https://www.npmjs.com/package/@steamlab/steam-crypto)
-- [Steam Client](https://github.com/fcastrocs/steam-client) - Parent project using this library
